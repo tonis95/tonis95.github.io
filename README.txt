@@ -1,4 +1,4 @@
-Using this template to work off of and implement my own designs, assests, etc..
+Using this template to work off of and implement my own designs, assets, etc..
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
